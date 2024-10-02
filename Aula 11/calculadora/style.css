@@ -1,0 +1,33 @@
+/* */
+QWidget {
+    background-color: black;
+}
+
+QLineEdit {
+    background: rgb(167, 166, 166); /*Colore a cor de fundo*/
+    font-size: 24px; /*Muda o tamanho da letra*/
+    color: white; /*Muda a cor da letra*/
+    text-align: right; 
+    border-color: none;
+    border-radius: 0px;
+}
+
+QPushButton {
+    color: black;
+    font-weight: bold;
+    background-color: rgb(243, 243, 243);
+    font-size: 18px;
+    border-radius: 0px;
+}
+
+QPushButton:hover{
+    background-color: rgb(255, 43, 43);
+}
+
+#btnAC{
+    background-color: #00bfff;
+}
+
+#btnI{
+    background-color: #00bfff;
+}
