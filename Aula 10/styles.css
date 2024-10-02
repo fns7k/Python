@@ -1,0 +1,32 @@
+/* styles.css */
+
+QWidget {
+    background-color: #eaeaea;
+}
+
+QLabel {
+    font-size: 15px;
+    color: #333;
+    font-weight: bold;
+    font-family: Fantasy;
+    /* font-smooth: auto; */
+}
+
+QLineEdit {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    font-size: 14px;
+    border-radius: 5px;
+    /* font-smooth: auto; */
+}
+
+QPushButton {
+    background-color: #4CAF50;
+    color: #fff;
+    font-size: 20px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-family: cursive;
+    /* font-smooth: auto; */
+}

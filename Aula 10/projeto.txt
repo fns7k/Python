@@ -1,0 +1,43 @@
+Mudar fonte 
+Mudar cor do fundo 
+Cor botão entrar
+Imagem de fundo
+Borda 
+Alinhar os elementos 
+
+
+
+
+
+
+        -webkit-font-smoothing: antialiased;
+    direction: ltr;
+    appearance: none;
+    font: inherit;
+    margin: 0;
+    text-decoration: none;
+    -webkit-box-align: center;
+    align-items: center;
+    box-sizing: border-box;
+    display: inline-flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    letter-spacing: normal;
+    line-height: 1;
+    user-select: none;
+    border: 0;
+    border-radius: 0.25rem;
+    cursor: pointer;
+    fill: currentColor;
+    position: relative;
+    transition-duration: 250ms;
+    transition-property: background-color,border-color;
+    transition-timing-function: cubic-bezier(0.9, 0, 0.51, 1);
+    vertical-align: text-top;
+    width: 100%;
+    font-size: 1rem;
+    font-weight: 500;
+    min-height: 2.5rem;
+    padding: 0.375rem 1rem;
+    background: rgb(229,9,20);
+    color: rgb(255,255,255);
