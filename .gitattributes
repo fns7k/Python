@@ -3,4 +3,4 @@
 *.php linguist-language=Python
 *.python linguist-language=Python
 *.html linguist-language=Python
-*.css linguist-language=Css
+*.css linguist-language=CSS
