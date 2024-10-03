@@ -1,4 +1,3 @@
-
 *.python linguist-detectable=true
 *.php linguist-language=Python
 *.python linguist-language=Python
