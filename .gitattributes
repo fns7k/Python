@@ -5,3 +5,4 @@
 *.html linguist-language=Python
 *.css linguist-language=CSS
 *.tex linguist-language=Python
+*.TeX linguist-language=Python
