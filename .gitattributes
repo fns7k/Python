@@ -1,4 +1,5 @@
-* linguist-vendored
-*.php linguist-vendored=false
+
 *.python linguist-detectable=true
-*.python linguist-vendored=true
+*.php linguist-language=Python
+*.python linguist-language=Python
+*.html linguist-language=Python
